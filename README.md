@@ -1,1 +1,1 @@
-file at the root of the repo, containing a description of the repository
+file, at the root of the folder of the project, describing what each script is doing
